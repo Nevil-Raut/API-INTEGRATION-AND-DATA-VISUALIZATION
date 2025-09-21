@@ -39,3 +39,4 @@ Potential Extensions and Applications
 The system can be extended in numerous ways, such as adding support for additional data sources, implementing historical data analysis, creating interactive web-based dashboards using frameworks like Plotly Dash or Streamlit, incorporating machine learning for weather prediction, or developing alert systems for severe weather conditions. The modular architecture allows for easy expansion and customization based on specific requirements.
 
 This comprehensive approach to API integration and data visualization provides a solid foundation for building data-driven applications that transform raw API responses into actionable insights through carefully designed visual representations.
+<img width="712" height="566" alt="Image" src="https://github.com/user-attachments/assets/726b7c04-3389-48df-aadd-57ee4cc5663c" />
