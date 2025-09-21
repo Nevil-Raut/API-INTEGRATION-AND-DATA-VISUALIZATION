@@ -40,3 +40,4 @@ The system can be extended in numerous ways, such as adding support for addition
 
 This comprehensive approach to API integration and data visualization provides a solid foundation for building data-driven applications that transform raw API responses into actionable insights through carefully designed visual representations.
 <img width="712" height="566" alt="Image" src="https://github.com/user-attachments/assets/726b7c04-3389-48df-aadd-57ee4cc5663c" />
+<img width="738" height="337" alt="Image" src="https://github.com/user-attachments/assets/4057c33c-63b2-48e4-bf61-ea2e9e21391f" />
